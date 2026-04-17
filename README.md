@@ -1,18 +1,18 @@
-# 🖥 Windows Server Infrastructure (Active Directory, DNS, DHCP)
+#  Windows Server Infrastructure (Active Directory, DNS, DHCP)
 
-## 📌 Overview
+##  Overview
 
 This project demonstrates deploying and managing an enterprise system using Windows Server, including Active Directory, DNS, DHCP, and network services.
 
 ---
 
-## 🧱 System Architecture
+##  System Architecture
 
 Client → Domain Controller → Network Services (DNS, DHCP, VPN)
 
 ---
 
-## ⚙️ Components
+##  Components
 
 * **Windows Server** – Core system
 * **Active Directory (AD DS)** – User and domain management
@@ -22,7 +22,7 @@ Client → Domain Controller → Network Services (DNS, DHCP, VPN)
 
 ---
 
-## 🔧 Setup Steps
+##  Setup Steps
 
 ### 1. Install Windows Server
 
@@ -52,7 +52,7 @@ Client → Domain Controller → Network Services (DNS, DHCP, VPN)
 
 ---
 
-## 🧑‍💻 Administration Tasks
+##  Administration Tasks
 
 * Create and manage users/groups
 * Apply Group Policies (GPO)
@@ -60,7 +60,7 @@ Client → Domain Controller → Network Services (DNS, DHCP, VPN)
 
 ---
 
-## 📊 Result
+##  Result
 
 * Centralized user and system management
 * Automated IP assignment
@@ -69,7 +69,7 @@ Client → Domain Controller → Network Services (DNS, DHCP, VPN)
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 * Windows Server
 * Active Directory
@@ -78,7 +78,7 @@ Client → Domain Controller → Network Services (DNS, DHCP, VPN)
 
 ---
 
-## 🎯 Key Learning
+##  Key Learning
 
 * Enterprise system administration
 * Domain management
